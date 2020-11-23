@@ -1,2 +1,2 @@
 # ppg
-zajęcia ppg
+zajecia ppg
